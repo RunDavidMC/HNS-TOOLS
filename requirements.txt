@@ -1,2 +1,2 @@
-pycoingecko
+pycoingecko,
 namebase_marketplace
