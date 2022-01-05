@@ -1,4 +1,7 @@
 # HNS-TOOLS
+
+## HNS TOOLS IS NOW DEPRICIATED - USE https://github.com/RunDavidMC/Namebase-Extended instead
+
 A set of tools for Namebase and HNS
 
 To install: ``pip install -r requirements.txt``
